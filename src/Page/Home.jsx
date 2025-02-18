@@ -40,7 +40,7 @@ function Home() {
 
             <Navbar expand="lg" className="bg-body-tertiary">
                 <Container fluid>
-                    <Navbar.Brand href="#">Navbar scroll</Navbar.Brand>
+                    <Navbar.Brand href="#">Products</Navbar.Brand>
                     <Navbar.Toggle aria-controls="navbarScroll" />
                     <Navbar.Collapse id="navbarScroll">
                         <Form className="d-flex"> <Form.Control type="search" placeholder="Search" className="me-2" aria-label="Search" onChange={(e)=>setSearchTerm(e.target.value)}/>
