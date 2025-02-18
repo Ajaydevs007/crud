@@ -58,7 +58,7 @@ function Home() {
 
             <div className="container-fluid">
 
-                <div className='my-5' style={{backgroundColor:"black"}}>
+                <div className='my-5' style={{backgroundColor:"wheat"}}>
 
                     <Row>
 
